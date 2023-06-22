@@ -27,9 +27,9 @@
 
 <div style="display: inline_block"  >
 <img align="right" width="200" height="270" style="border-radius:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<p> - 👨‍🎓 Desenvolvedor Java, atuando com Spring Boot, Hibernate/JPA, AWS e Junit </p>
-<p> - 🎯 Interesse: Java, Spring Boot, SQL, HTML, CSS, JavaScript/TypeScript, React, Python e <b>machine learning</b>. </p>
-<p> - 🤖 Quando me perguntaram o que eu queria ser? há era "Astronauta" e hoje eu quero programar a <b>skynet</b>! haha </p>
+<p> - 👨‍🎓 Desenvolvedor back-end, atuando com Dot.Net, Xamarin e JavaScript </p>
+<p> - 🎯 Interesse: Csharp, JavaScript, CSS, HTML, React, SQL, Python e <b>machine learning</b>. </p>
+<p> - 🤖 Quando me perguntam o por quê que escolhi programação? Eu so volto a pergunta e <b>por que não escolher? </b> rsrsr </p>
 <p> - 🥋 Gosto de lutar jiu-jitsu, programar e jogar todo tipo de jogo indie/soulslike bora jogar juntos! </p>
 </div>
 
@@ -39,22 +39,18 @@
 
 ## Minhas skills :nerd_face:
 <div align="center">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
-   
 </div>
 </br>
 </br>
