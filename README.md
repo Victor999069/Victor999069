@@ -21,16 +21,16 @@
 </br>
 </br>
 
-# Olá, eu sou Victor Hugo! <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+# Olá, eu sou Victor Hugo!
           
 ### Sobre mim:
 
 <div style="display: inline_block"  >
-<img align="right" width="200" height="270" style="border-radius:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="right" width="200" height="270" style="border-radius:100px;" src="https://github.com/oTalDoHud/oTalDoHud/blob/main/Assets/bonfire.gif" />
 <p> - 👨‍🎓 Desenvolvedor back-end, atuando com Dot.Net, Xamarin e JavaScript </p>
 <p> - 🎯 Interesse: Csharp, JavaScript, CSS, HTML, React, SQL, Python e <b>machine learning</b>. </p>
 <p> - 🤖 Quando me perguntam o por quê que escolhi programação? Eu so volto a pergunta e <b>por que não escolher? </b> rsrsr </p>
-<p> - 🥋 Gosto de lutar jiu-jitsu, programar e jogar todo tipo de jogo indie/soulslike bora jogar juntos! </p>
+<p> - 🥋 Gosto de jogar Airsoft, jogar video game e de programar minhas ideias, bora contruir algo juntos? </p>
 </div>
 
 </br>
